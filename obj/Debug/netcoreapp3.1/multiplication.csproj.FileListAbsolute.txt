@@ -1,0 +1,12 @@
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/bin/Debug/netcoreapp3.1/multiplication.deps.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/bin/Debug/netcoreapp3.1/multiplication.runtimeconfig.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/bin/Debug/netcoreapp3.1/multiplication.runtimeconfig.dev.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/bin/Debug/netcoreapp3.1/multiplication.dll
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/bin/Debug/netcoreapp3.1/multiplication.pdb
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/obj/Debug/netcoreapp3.1/multiplication.csprojAssemblyReference.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/obj/Debug/netcoreapp3.1/multiplication.AssemblyInfoInputs.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/obj/Debug/netcoreapp3.1/multiplication.AssemblyInfo.cs
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/obj/Debug/netcoreapp3.1/multiplication.csproj.CoreCompileInputs.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/obj/Debug/netcoreapp3.1/multiplication.dll
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/obj/Debug/netcoreapp3.1/multiplication.pdb
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/multiplication/obj/Debug/netcoreapp3.1/multiplication.genruntimeconfig.cache
